@@ -34,5 +34,45 @@
   "Role": {
     "dataSource": "mydb",
     "public": false
+  },
+  "Accesstoken": {
+    "dataSource": "mydb",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
+  },
+  "Acl": {
+    "dataSource": "mydb",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
+  },
+  "Dosen": {
+    "dataSource": "mydb",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
+  },
+  "Jurusan": {
+    "dataSource": "mydb",
+    "public": true
+  },
+  "Mahasiswa": {
+    "dataSource": "mydb",
+    "public": true
+  },
+  "PengajuanTa": {
+    "dataSource": "mydb",
+    "public": true
+  },
+  "Rolemapping": {
+    "dataSource": "mydb",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
+  },
+  "Restiuser": {
+    "dataSource": "mydb",
+    "public": true
   }
 }

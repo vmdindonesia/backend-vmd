@@ -4,12 +4,12 @@
     "connector": "memory"
   },
   "mydb": {
-    "name": "mydb",
-    "connector": "mysql",
     "host": "localhost",
     "port": 3306,
     "database": "dbresti",
     "password": "",
+    "name": "mydb",
+    "connector": "mysql",
     "user": "root"
-   }
+  }
 }
