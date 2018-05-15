@@ -61,10 +61,6 @@
     "dataSource": "mydb",
     "public": true
   },
-  "PengajuanTa": {
-    "dataSource": "mydb",
-    "public": true
-  },
   "Rolemapping": {
     "dataSource": "mydb",
     "public": true,
@@ -74,5 +70,15 @@
   "Restiuser": {
     "dataSource": "mydb",
     "public": true
+  },
+  "PengajuanTa": {
+    "dataSource": "mydb",
+    "public": true
+  },
+  "CommentRevision": {
+    "dataSource": "mydb",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
   }
 }
